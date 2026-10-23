@@ -2,6 +2,25 @@
 
 Complete inventory system with products, suppliers, stock tracking, and low-stock alerts.
 
+Repository: https://github.com/0xyz-exe/inventory-management-laravel
+
+## Screenshots
+
+### Product Inventory & Low-Stock Alerts
+![Product inventory](docs/screenshots/01_inventory_dashboard.png)
+
+### Stock Movement History & Audit Log
+![Stock movements](docs/screenshots/02_stock_movements.png)
+
+### Record Stock Transactions (In / Out / Adjustment)
+![Stock transaction form](docs/screenshots/03_stock_form.png)
+
+### Supplier Management
+![Suppliers](docs/screenshots/04_suppliers.png)
+
+### Authentication
+![Authentication](docs/screenshots/05_login.png)
+
 ## Features
 
 - ✅ Product catalog with SKU

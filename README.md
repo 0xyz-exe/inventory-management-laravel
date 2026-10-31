@@ -6,20 +6,12 @@ Repository: https://github.com/0xyz-exe/inventory-management-laravel
 
 ## Screenshots
 
-### Product Inventory & Low-Stock Alerts
-![Product inventory](docs/screenshots/01_inventory_dashboard.png)
-
-### Stock Movement History & Audit Log
-![Stock movements](docs/screenshots/02_stock_movements.png)
-
-### Record Stock Transactions (In / Out / Adjustment)
-![Stock transaction form](docs/screenshots/03_stock_form.png)
-
-### Supplier Management
-![Suppliers](docs/screenshots/04_suppliers.png)
-
-### Authentication
-![Authentication](docs/screenshots/05_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Katalog Inventaris & Peringatan Stok Menipis**<br>Panel katalog produk inventaris dengan banner peringatan stok minimum, kode SKU unik, nama supplier, stok terkini, dan harga unit | ![Katalog Inventaris & Peringatan Stok Menipis](docs/screenshots/01-inventory-catalog-lowstock.png) |
+| **Formulir Transaksi Mutasi Stok Barang**<br>Formulir pencatatan pergerakan stok (Stock In, Stock Out, Adjustment) dengan validasi kuantitas, alasan mutasi, dan catatan logistik | ![Formulir Transaksi Mutasi Stok Barang](docs/screenshots/02-record-stock-movement.png) |
+| **Buku Riwayat Mutasi Stok (Audit Trail)**<br>Tabel riwayat pergerakan stok lengkap dengan badge status tipe pergerakan, kuantitas mutasi (+/-), perubahan stok sebelum/sesudah, dan pencatat | ![Buku Riwayat Mutasi Stok](docs/screenshots/03-stock-movements-history.png) |
+| **Registrasi Produk Baru ke Inventaris**<br>Formulir penambahan barang baru dengan penetapan kode SKU/barcode, pemilihan supplier resmi, harga satuan, dan batas ambang minimum stok | ![Registrasi Produk Baru ke Inventaris](docs/screenshots/04-add-inventory-product.png) |
 
 ## Features
 
